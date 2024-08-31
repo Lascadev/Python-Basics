@@ -20,3 +20,17 @@ nota_2 = 10
 nota_total = nota_1 * 0.40 + nota_2 * 0.6
 print(nota_total)
 
+'Textos'
+message_1 = 'textos'
+message_2 = "Esta palabra se encuentra 'en comillas simples'"
+message_3 = "Esta \"palabra\" se encuentra en comillas dobles"
+message_4 = "Esta \'palabra\' se encuentra en comillas simples"
+print(message_1)
+print(message_2)
+print(message_3)
+print(message_4)
+print(r"C:\nombre\directorio")
+"con raw o r no toma en cuenta los caracteres especiales"
+print("""una linea otra linea
+      otra linea
+      otra linea""")
