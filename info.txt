@@ -1,0 +1,6 @@
+los entornos viruales nos permite crear un entorno aislado que no afectara a ningun otro y dentro de este podremos 
+instalar cualquier paquete de python que ejecute cualquier version si creamos un segundo proyecto estara aislado 
+
+comando para crear un venv -> py -3 -m venv venv
+
+recuerda cambiar el interprete y activar la consola de cmd para poder ver el interprete del proyecto venv/Script/python.exe <-este es el interprete y la cmd venv/Script/activate.bat
